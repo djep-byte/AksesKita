@@ -495,7 +495,9 @@ Untuk **mengembalikan data awal**, tutup aplikasi lalu hapus `akseskita.db*` dan
 5. Basis data bersama (misalnya server) agar petugas dan warga dapat memakai aplikasi dari komputer berbeda.
 
 ---
+### Link Video Demo
 
+https://youtu.be/o-pANUYIMIA
 <p align="center">
   AksesKita · Proyek PBKK Kelas D · Kota Surabaya
 </p>
